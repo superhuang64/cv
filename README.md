@@ -41,7 +41,7 @@
             <td>wine advisor</td>
         </tr>
     </table>
-
+    <hr>
     <h3>Skills</h3>
     <table cellspacing="10">
         <tr>
@@ -70,7 +70,7 @@
             </td>
         </tr>
     </table>
-
+    <hr>
     <h4><a href="Contact_me.htm">Contact me</a></h4>
 </body>
 
