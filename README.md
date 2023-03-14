@@ -71,7 +71,7 @@
         </tr>
     </table>
     <hr>
-    <h4><a href="Contact_me.htm">Contact me</a></h4>
+    <h4><a href="/cv/contact_me.html">Contact me</a></h4>
 </body>
 
 </html>
